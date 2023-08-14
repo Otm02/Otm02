@@ -15,4 +15,4 @@ Feel free to reach out to me on [LinkedIn](linkedin.com/in/athmane-benarous)!
 
 # Projects 🛠
 
-Here's a [full list](https://github.com/Otm02/Otm02/blob/be3d177a10a190be4c5284a74bc9633c6f61dd9e/Projects.md) of my open-source project contributions!
+Here's a [full list](https://github.com/Otm02/Otm02/blob/main/Projects.md) of my open-source project contributions!
