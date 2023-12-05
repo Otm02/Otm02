@@ -5,7 +5,7 @@ Hi! My name's Athmane Benarous. I'm currently a software engineering student at 
 I worked as a BI Analyst intern and as a CRM Software intern.
 
 # Contact Info 📞
-Feel free to reach out to me on [LinkedIn](linkedin.com/in/athmane-benarous)!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/athmane-benarous/)!
 
 # Software Skills 💻
 
