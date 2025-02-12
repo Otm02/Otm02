@@ -3,7 +3,7 @@
 ## Hackathon Projects
 |Project Name|GitHub Link|Completion Date|Tools|Description|
 |--|--|--|--|--|
-|GreenFilter AI|[Repo](https://github.com/Otm02/GreenFilter-AI)|January 2024|Python, Jupyter Notebook|Implemented a layered AI model to validate sustainable problems & solutions based on cleaned data|
+|[GreenFilter AI](https://github.com/Otm02/GreenFilter-AI)|[Repo](https://github.com/Otm02/GreenFilter-AI)|January 2024|Python, Jupyter Notebook|Implemented a layered AI model to validate sustainable problems & solutions based on cleaned data|
 |[Higher, Higher! An Addictive Learning Experience](https://devpost.com/software/higher-higher-an-addictive-learning-experience)|[Repo](https://github.com/TheMoutonNoir/Hack22)|June 2022|React.JS, Git, AdobeXD|Collaborated on an AdobeXD and React.Js project to create a web interactive game about the environment|
 |[Akademos - Student App](https://devpost.com/software/akademos)|[Repo](https://github.com/TheMoutonNoir/Hackathon-CodeJam)|February 2022|Kotlin, Git|Collaborated to implement an android app with to-do lists, reminders, and study timers|
 |[Hermes Discord Bot](https://devpost.com/software/memo-discord-bot)|[Repo](https://github.com/TheMoutonNoir/McHacks-personal)|January 2022|Java, Git|Collaborated to implement a Discord bot client that stores and delivers message requests|
