@@ -2,7 +2,7 @@
 
 Hey, my name's Athmane Benarous. I'm currently a software engineering student at McGill University.
 
-I worked as a Cybersecurity Intern for Hydro Québec, as a CRM Software intern at Russet House, and as a BI Analyst intern for CIUSSS du Centre-Sud-de-Montréal.
+I worked as a Machine Learning and Cybersecurity Intern for Hydro Québec, as a CRM Software intern at Russet House, and as a BI Analyst intern for CIUSSS du Centre-Sud-de-Montréal.
 
 # Contact Info 📞
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/athmane-benarous/)
