@@ -1,6 +1,6 @@
 # Welcome to my profile
 
-Hey, my name's Athmane Benarous. I'm currently a software engineering student at McGill University.
+Hey, my name's Athmane Benarous. I'm currently pursuing an M.Sc in Computer Science at McGill University and am software engineering graduate.
 
 I worked as a Machine Learning and Cybersecurity Intern for Hydro Québec, as a CRM Software intern at Russet House, and as a BI Analyst intern for CIUSSS du Centre-Sud-de-Montréal.
 
